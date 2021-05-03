@@ -31,9 +31,9 @@ This is a simple demo app clone for the popular LinkTree application. It was cre
 
 ## Installation & Usage
 
-'''
+```
 composer install
 npm install
 npm run dev
 php artisan serve
-'''
+```
